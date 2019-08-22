@@ -1,0 +1,29 @@
+{
+  "storeApp": {
+    "invoice": {
+      "home": {
+        "title": "Invoices",
+        "createLabel": "Invoice erstellen",
+        "createOrEditLabel": "Invoice erstellen oder bearbeiten",
+        "notFound": "No Invoices found"
+      },
+      "created": "Invoice erstellt mit ID {{ param }}",
+      "updated": "Invoice aktualisiert mit ID {{ param }}",
+      "deleted": "Invoice gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Invoice {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Invoice"
+      },
+      "date": "Date",
+      "details": "Details",
+      "status": "Status",
+      "paymentMethod": "Payment Method",
+      "paymentDate": "Payment Date",
+      "paymentAmount": "Payment Amount",
+      "shipment": "Shipment",
+      "order": "Order"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeApp": {
+    "orderItem": {
+      "home": {
+        "title": "Order Items",
+        "createLabel": "Order Item erstellen",
+        "createOrEditLabel": "Order Item erstellen oder bearbeiten",
+        "notFound": "No Order Items found"
+      },
+      "created": "Order Item erstellt mit ID {{ param }}",
+      "updated": "Order Item aktualisiert mit ID {{ param }}",
+      "deleted": "Order Item gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Order Item {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Order Item"
+      },
+      "quantity": "Quantity",
+      "totalPrice": "Total Price",
+      "status": "Status",
+      "product": "Product",
+      "order": "Order"
+    }
+  }
+}
